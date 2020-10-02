@@ -9,12 +9,12 @@ html {
         justify-content: center;
         background-color: #010101;
         background-attachment: fixed;
-        background-position: relative;'
+        background-position: relative;
              }
            
             .write{
               font-size: 64px;
-              color: #ffc107;
+              color: rgb(255,255,0);
             }
            #particles-js {
           height: 100%;
